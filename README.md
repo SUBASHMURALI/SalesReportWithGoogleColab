@@ -72,4 +72,4 @@ The project transformed raw sales data into meaningful insights through data cle
 
 ## 👤 Author
 
-**Subash**
+**Subash Murali**
